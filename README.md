@@ -1,9 +1,7 @@
-🤖 Built a Career Advisor Chatbot using Google Gemini API and Streamlit to provide career guidance, skill recommendations, and personalized learning roadmaps. 🚀 Supports multi-turn conversations with secure API integration, logging, and error handling for a seamless user experience.
-
-
-
-
 # Career Advisor Chatbot 🤖
+
+Built a Career Advisor Chatbot using Google Gemini API and Streamlit to provide career guidance, skill recommendations, and personalized learning roadmaps. 🚀 Supports multi-turn conversations with secure API integration, logging, and error handling for a seamless user experience.
+
 
 A simple AI-powered Career Advisor Chatbot built using **Google Gemini API** and **Streamlit**.
 
